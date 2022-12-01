@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent chgrp staff hello
+chown --from=guillame betty hello
